@@ -1,0 +1,2 @@
+- name: Sphinx Docs build with ReadTheDocs Docker
+  uses: DavidLeoni/readthedocs-to-actions@v1.2
